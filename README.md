@@ -4,7 +4,8 @@
 #### Introduction
 Tic-Tac-Toe app allows two players to play the classic game of Tic-Tac-Toe interactively. The game board consists of a 3x3 grid where players take turns marking spaces with 'X' and 'O'.
 The first player to align 3 of their marks vertically, horizontally, or diagonally wins the game. If all squares are filled and no player has three marks in a row, the game ends in a draw.
-![image](https://github.com/freda1874/react.dev/assets/85437054/f5afa417-8cb9-42eb-bde2-8bd1346e9ad5) ![image](https://github.com/freda1874/react.dev/assets/85437054/95637e6a-e661-46cd-8918-2253f897bb6e)
+![image](https://github.com/freda1874/react.dev/assets/85437054/f5afa417-8cb9-42eb-bde2-8bd1346e9ad5) 
+![image](https://github.com/freda1874/react.dev/assets/85437054/95637e6a-e661-46cd-8918-2253f897bb6e)
 
 #### How to Play
 
